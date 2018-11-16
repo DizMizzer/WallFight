@@ -1,0 +1,3 @@
+name: WallFight
+version: ${project.version}
+main: nl.dizmizzer.wallfight.WallFight
